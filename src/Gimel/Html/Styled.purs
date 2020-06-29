@@ -2,8 +2,7 @@ module Gimel.Html.Styled where
 
 import Prelude
 
-import CSS (CSS, fromString, prefixed, render, renderedInline)
-import Data.Maybe (fromMaybe)
+import CSS (CSS)
 import Gimel.Attributes (Attribute)
 import Gimel.Html (Html, react)
 import Gimel.Utils (renderCSS)

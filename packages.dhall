@@ -8,6 +8,7 @@ let additions =
     { dependencies =
       [ "aff"
       , "console"
+      , "css"
       , "effect"
       , "filterable"
       , "js-timers"
