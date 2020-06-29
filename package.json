@@ -1,0 +1,22 @@
+{
+  "name": "gimel-styled",
+  "version": "1.0.0",
+  "description": "Gimel's styled-components port",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoctorRyner/gimel-styled.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoctorRyner/gimel-styled/issues"
+  },
+  "homepage": "https://github.com/DoctorRyner/gimel-styled#readme"
+}
