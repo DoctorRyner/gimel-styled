@@ -7,9 +7,6 @@ let additions =
   { gimel =
     { dependencies =
       [ "aff"
-      , "affjax"
-      , "argonaut"
-      , "argonaut-codecs"
       , "console"
       , "effect"
       , "filterable"
