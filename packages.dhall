@@ -18,7 +18,7 @@ let additions =
       , "web-html"
       ]
     , repo = "https://github.com/DoctorRyner/gimel"
-    , version = "master"
+    , version = "v0.1-alpha"
     }
   }
 
